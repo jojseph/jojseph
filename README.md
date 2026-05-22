@@ -18,7 +18,7 @@
 <!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://jojseph.dev"><img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=googlechrome&logoColor=7AA2F7" /></a>
-  <a href="https://www.linkedin.com/in/joseph-novabos/"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" /></a>
+  <a href="www.linkedin.com/in/joseph-novabos"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" /></a>
   <a href="mailto:josephvictornovabos@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7AA2F7" /></a>
   <a href="https://github.com/jojseph"><img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=7AA2F7" /></a>
 </p>
@@ -89,8 +89,8 @@ motto:     "self-driven, curious, ship things"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jojseph&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7AA2F7&icon_color=BB9AF7&text_color=c0caf5&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojseph&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7AA2F7&text_color=c0caf5&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.hackclub.dev/api?username=jojseph&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7AA2F7&icon_color=BB9AF7&text_color=c0caf5&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=jojseph&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7AA2F7&text_color=c0caf5&langs_count=8" />
 </div>
 
 <div align="center">
