@@ -5,22 +5,22 @@
 
 <!-- TYPING ANIMATION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Joseph+%F0%9F%91%8B;Software+Developer+%C2%B7+Cebu%2C+PH;Language+Designer+%26+Tinkerer;Polyglot+by+Choice;Building+%26+Learning+Every+Day" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1200&color=f0c674&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Joseph+%F0%9F%91%8B;Software+Developer+%C2%B7+Cebu%2C+PH;Language+Designer+%26+Tinkerer;Polyglot+by+Choice;Building+%26+Learning+Every+Day" alt="Typing animation" />
 </h1>
 
 <!-- BADGES ROW -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jojseph&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/jojseph?style=for-the-badge&color=BB9AF7&labelColor=1a1b26&label=FOLLOWERS" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-9ECE6A?style=for-the-badge&labelColor=1a1b26" />
+  <img src="https://komarev.com/ghpvc/?username=jojseph&style=for-the-badge&color=f0c674&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/jojseph?style=for-the-badge&color=d39bb0&labelColor=0d0d12&label=FOLLOWERS" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-e8c47a?style=for-the-badge&labelColor=0d0d12" />
 </p>
 
 <!-- SOCIAL LINKS -->
 <p align="center">
-  <a href="https://jojseph.dev"><img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=googlechrome&logoColor=7AA2F7" /></a>
-  <a href="www.linkedin.com/in/joseph-novabos"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" /></a>
-  <a href="mailto:josephvictornovabos@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7AA2F7" /></a>
-  <a href="https://github.com/jojseph"><img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=7AA2F7" /></a>
+  <a href="https://jojseph.dev"><img src="https://img.shields.io/badge/Portfolio-0d0d12?style=for-the-badge&logo=googlechrome&logoColor=f0c674" /></a>
+  <a href="https://linkedin.com/in/joseph-novabos"><img src="https://img.shields.io/badge/LinkedIn-0d0d12?style=for-the-badge&logo=linkedin&logoColor=f0c674" /></a>
+  <a href="mailto:josephvictornovabos@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d12?style=for-the-badge&logo=gmail&logoColor=f0c674" /></a>
+  <a href="https://github.com/jojseph"><img src="https://img.shields.io/badge/GitHub-0d0d12?style=for-the-badge&logo=github&logoColor=f0c674" /></a>
 </p>
 
 ---
@@ -89,16 +89,11 @@ motto:     "self-driven, curious, ship things"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.hackclub.dev/api?username=jojseph&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7AA2F7&icon_color=BB9AF7&text_color=c0caf5&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=jojseph&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7AA2F7&text_color=c0caf5&langs_count=8" />
+  <img src="https://streak-stats.demolab.com?user=jojseph&hide_border=true&background=0d0d12&ring=f0c674&fire=d39bb0&currStreakLabel=f0c674&sideLabels=e8d6b8&dates=e8d6b8&stroke=e8d6b8" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jojseph&theme=tokyonight&hide_border=true&background=1a1b26&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&sideLabels=c0caf5&dates=c0caf5" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jojseph&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jojseph&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
 </div>
 
 ---
@@ -189,7 +184,7 @@ Modern **Kotlin** + Android, focused on a clean, fast fitness companion experien
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jojseph&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7AA2F7&line=BB9AF7&point=9ECE6A&area=true&area_color=7AA2F7" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jojseph&theme=github-compact&hide_border=true&bg_color=0d0d12&color=f0c674&line=d39bb0&point=e8c47a&area=true&area_color=f0c674&title_color=e8d6b8" alt="Activity graph" />
 </div>
 
 ---
@@ -197,9 +192,9 @@ Modern **Kotlin** + Android, focused on a clean, fast fitness companion experien
 ## 💬 Let's Build Something
 
 <p align="center">
-  <a href="https://jojseph.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-jojseph.dev-7AA2F7?style=for-the-badge&labelColor=1a1b26" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-BB9AF7?style=for-the-badge&labelColor=1a1b26" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/📧_Email-Get_in_touch-9ECE6A?style=for-the-badge&labelColor=1a1b26" /></a>
+  <a href="https://jojseph.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-jojseph.dev-f0c674?style=for-the-badge&labelColor=0d0d12" /></a>
+  <a href="https://linkedin.com/in/joseph-novabos"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-d39bb0?style=for-the-badge&labelColor=0d0d12" /></a>
+  <a href="mailto:josephvictornovabos@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Get_in_touch-e8c47a?style=for-the-badge&labelColor=0d0d12" /></a>
 </p>
 
 ---
@@ -212,3 +207,10 @@ Modern **Kotlin** + Android, focused on a clean, fast fitness companion experien
   <sub>Crafted with ☕ in Cebu · <a href="https://github.com/jojseph/jojseph">View source</a></sub>
 </p>
 
+<!-- Theme: Midnight Noir — palette inspired by the banner + avatar
+     Background:  #0d0d12  (deep midnight)
+     Primary:     #f0c674  (warm amber, like the moon and window lights)
+     Secondary:   #d39bb0  (soft pink, like the banner's neon accent)
+     Text:        #e8d6b8  (pale cream)
+     Highlight:   #e8c47a  (warm gold for "open to work")
+-->
