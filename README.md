@@ -18,8 +18,8 @@
 <!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://jojseph.dev"><img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=googlechrome&logoColor=7AA2F7" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7AA2F7" /></a>
+  <a href="https://www.linkedin.com/in/joseph-novabos/"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" /></a>
+  <a href="mailto:josephvictornovabos@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7AA2F7" /></a>
   <a href="https://github.com/jojseph"><img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=7AA2F7" /></a>
 </p>
 
